@@ -2,5 +2,8 @@
 	"editor.minimap.enabled": false,
 	"cSpell.enabledFileTypes": {
 		"plaintext": false
+	},
+	"files.associations": {
+		"input_*": "plaintext",
 	}
 }
